@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wavecell-py",
-    version="0.0.1",
+    version="0.0.2",
     author="Saggaf Arsyad",
     author_email="saggaf@nbs.co.id",
     description="Wavecell REST API Wrapper for Python",
