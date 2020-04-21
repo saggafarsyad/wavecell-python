@@ -1,0 +1,10 @@
+# IDE files
+.idea/
+
+# Virtual Env
+venv/
+
+# PyPi output
+dist/
+build/
+wavecell_py.egg-info/
